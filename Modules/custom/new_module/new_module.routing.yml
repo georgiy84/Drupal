@@ -1,0 +1,7 @@
+new_module.content:
+  path: '/new-module'
+  defaults:
+    _title: 'New Module'
+    _controller: '\Drupal\new_module\Controller\NewModuleController::content'
+  requirements:
+    _permission: 'access content'

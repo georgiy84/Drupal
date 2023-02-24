@@ -1,0 +1,9 @@
+name: New Module
+description: My first module custom
+package: New Modules
+type: module
+core: 8.x
+core_version_requirement: ^8 || ^9
+
+libraries:
+  - new_module/new_module_style
