@@ -1,3 +1,7 @@
-new_module_style:
+global-scripts-style:
+  version: 1.0
   js:
     js/validationContent.js: {}
+  css:
+    theme:
+      css/cuddly-slider.css: {}
